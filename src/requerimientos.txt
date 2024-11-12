@@ -1,0 +1,26 @@
+Librerias necesarias:
+- nodemon
+- mysql2
+- cors
+- express
+- bncryptjs
+
+Base de datos MYSQL, tabl aprendiz
+
+NOTAS DE DESARROLLADOR : 
+- Usamos Modulos implementados con COMMONJS 
+- Paradigma Procedural
+
+creamos los siguientes recursos o enpoint
+
+get : listarTodos
+get : listarporID
+get : listarporApellido
+post : crearAprendiz
+put : editarPorId
+delete : borraPorId
+
+usar EXPRESS
+
+
+aplicaicones externas para probar las apis
